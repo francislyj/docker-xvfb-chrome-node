@@ -2,4 +2,4 @@
 docker pushrm francislyj/xvfb-chrome-node
 
 # create image
-docker build image -t francislyj/xvfb-chrome-node:1.0.0 .
+docker image build -t francislyj/xvfb-chrome-node:1.0.0 .
