@@ -46,10 +46,6 @@ from francislyj/xvfb-chrome-node:1.0.0
 
 * [GitHub](https://github.com/francislyj/docker-xvfb-chrome-node.git)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 * **francislyj** - *francislyj@gmail.com* - [github](https://github.com/francislyj)
